@@ -1,0 +1,447 @@
+
+body{
+    width: 1100px;
+    background-color: rgb(246, 243, 243);
+}
+.b1{
+    width: 1100px;
+    height: 50px;
+    background-color:#ffffff;
+    display: inline;
+}
+.d1{
+    width: 280px;
+    height: 160px;
+    border-radius: 2%;
+    margin-left:  125px;
+    display: inline-block;
+    text-align: center;
+    vertical-align: top;
+    background: linear-gradient(135deg,rgb(212, 215, 242),rgba(246, 237, 238, 0.932));
+}
+
+.e1{
+    width: 280px;
+    height: 160px;
+   
+    border-radius: 2%;
+    display: inline-block;
+}
+.f1{
+    width: 280px;
+    height: 160px;
+  
+    border-radius: 2%;
+    display: inline-block;
+    
+}
+.h1{
+    width: 280px;
+    height: 160px;
+    border-radius: 2%;
+    display: inline-block;
+}
+.ii1{
+    width: 280px;
+    height: 160px;
+    border-radius: 2%;
+    display: inline-block;
+
+}
+.j1{
+    width: 280px;
+    height: 160px;
+    border-radius: 2%;
+    display: inline-block;
+    text-align: center;
+    vertical-align: top;
+
+}
+.g1{
+    margin-left: 125px;
+    font-size: 10px;
+}
+.l1{
+    width: 280px;
+    height: 160px;
+    border-radius: 2%;
+    display: inline-block; 
+}
+.k1{
+   vertical-align: middle;
+   margin-top: 3px;
+}
+.v1{
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    vertical-align: middle;
+    justify-content: center;
+}
+.b1{
+    display: inline-block;
+    vertical-align: middle;
+}
+.s1{
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    vertical-align: middle;
+    justify-content: center;
+}
+.m1{
+    width: 70px;
+    height: 40px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 5px;
+    justify-content: center;
+    float: right;
+
+}
+.z1{
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    vertical-align: middle;
+    float: right;
+    justify-content: center;
+    margin-top: 12px;
+}
+.y1{
+    display: inline-block;
+    vertical-align: middle; 
+}
+.x1{
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    vertical-align: middle;
+    float: right;
+    justify-content: center;
+}
+.t1{
+    display: inline-block;
+    vertical-align: middle;
+    width: 20px;
+    height: 20px;
+    margin-top: 10px;
+}
+.v11{
+    width: 17px;
+    height: 17px;
+    font-size: x-small;
+    
+    
+}
+.c11{
+    width: 10px;
+    height: 10px;
+}
+.l11{
+    height: 40px;
+    width: 90px;
+}
+.aa{
+    height: 0px;
+    width: 0px;
+}
+.div1{
+    height: 80px;
+    width: 80px;
+    display: flex;
+    margin: auto;
+    margin-top: 35px;
+    border-radius: 50%;
+    display: inline-block;
+    vertical-align: middle;
+    align-content: center;
+    text-align: center;
+    margin-left: -120px;
+
+}
+#lalu{
+    display: inline-block;
+    background-color: rgba(50, 50, 50, 0.614);
+    float: left;
+    height: 20px;
+    width: 100px;
+    border-radius: 5px;
+    margin-left: 10px;
+    color: ghostwhite;
+    margin-top: 130px;
+    font-size: small;
+    
+
+}
+.e1{
+    width: 280px;
+    height: 160px;
+    border-radius: 2%;
+    display: inline-block;
+    text-align: center;
+    vertical-align: top;
+}
+.d2{
+    width: 280px;
+    height: 160px;
+    border-radius: 2%;
+    display: inline-block;
+    text-align: center;
+    vertical-align: top;
+    background: linear-gradient(135deg,rgb(212, 215, 242),rgba(246, 237, 238, 0.932));
+}
+
+.div2{
+    height: 80px;
+    width: 80px;
+    display: flex;
+    margin: auto;
+    margin-top: 35px;
+    border-radius: 50%;
+    display: inline-block;
+    vertical-align: middle;
+    align-content: center;
+    text-align: center;
+    margin-left: -190px;
+}
+#lalu1{
+    display: inline-block;
+    background-color: rgba(50, 50, 50, 0.614);
+    float: left;
+    height: 20px;
+    width: 170px;
+    border-radius: 5px;
+    margin-left: 10px;
+    color: ghostwhite;
+    margin-top: 130px;
+    text-align: center;
+    font-size: small;
+    float: inline-start;
+   
+}
+.d3{
+    width: 280px;
+    height: 160px;
+    border-radius: 2%;
+    display: inline-block;
+    text-align: center;
+    vertical-align: top;
+
+}
+.div3{
+    height: 80px;
+    width: 80px;
+    display: flex;
+    margin: auto;
+    margin-top: 35px;
+    border-radius: 50%;
+    display: inline-block;
+    vertical-align: middle;
+    align-content: center;
+    text-align: center;
+    margin-left: -180px;
+  
+}
+.f1{
+    width: 280px;
+    height: 160px;
+   
+    border-radius: 2%;
+    display: inline-block;
+    text-align: center;
+    vertical-align: top;
+}
+.g1{
+    margin-top: 3px;
+}
+.c1{
+    margin-top: 5px;
+}
+.d4{
+    width: 280px;
+    height: 160px;
+ 
+    border-radius: 2%;
+    
+    display: inline-block;
+    text-align: center;
+    vertical-align: top;   
+
+}
+.div4{
+    height: 80px;
+    width: 80px;
+    display: flex;
+    margin: auto;
+    margin-top: 35px;
+    border-radius: 50%;
+    display: inline-block;
+    vertical-align: middle;
+    align-content: center;
+    text-align: center;
+    margin-left: -200px;
+}
+.h1{
+    width: 280px;
+    height: 160px;
+    border-radius: 2%;
+    display: inline-block;
+    text-align: center;
+    vertical-align: top;
+
+}
+.ii1{
+    width: 280px;
+    height: 160px;
+    border-radius: 2%;
+    display: inline-block;
+    text-align: center;
+    vertical-align: top;   
+
+}
+.d5{
+    width: 280px;
+    height: 160px;
+    border-radius: 2%;
+    display: inline-block;
+    text-align: center;
+    vertical-align: top;   
+
+}
+.div5{
+    height: 80px;
+    width: 80px;
+    display: flex;
+    margin: auto;
+    margin-top: 35px;
+    border-radius: 50%;
+    display: inline-block;
+    vertical-align: middle;
+    align-content: center;
+    text-align: center;
+    margin-left: -200px;
+}
+.div6{
+    height: 80px;
+    width: 80px;
+    display: flex;
+    margin: auto;
+    margin-top: 35px;
+    border-radius: 50%;
+    display: inline-block;
+    vertical-align: middle;
+    align-content: center;
+    text-align: center;
+    margin-left: -160px; 
+}
+.d6{
+    width: 280px;
+    height: 160px;
+  
+    border-radius: 2%;
+    display: inline-block;
+    text-align: center;
+    vertical-align: top;   
+}
+#lalu2{
+    display: inline-block;
+    background-color: rgba(71, 71, 71, 0.614);
+    height: 20px;
+    width: 150px;
+    border-radius: 5px;
+    margin-left: 10px;
+    color: ghostwhite;
+    margin-top: 130px;
+    text-align: center;
+    font-size: small;
+    float: left;
+   
+}
+.d7{
+    width: 280px;
+    height: 160px;
+    border-radius: 2%;
+    display: inline-block;
+    text-align: center;
+    vertical-align: top;   
+}
+.div7{
+    height: 80px;
+    width: 80px;
+    display: flex;
+    margin: auto;
+    margin-top: 35px;
+    border-radius: 50%;
+    display: inline-block;
+    vertical-align: middle;
+    align-content: center;
+    text-align: center;
+    margin-left: -200px;
+}
+#ab1{
+    vertical-align: middle;
+    align-content: center;
+    background: linear-gradient(135deg,rgb(212, 215, 243),rgba(246, 237, 238, 0.932));
+}
+#ab2{
+    vertical-align: middle;
+    align-content: center;
+    background: linear-gradient(135deg,rgb(233, 246, 233),rgba(235, 217, 217, 0.932));
+}
+#ab3{
+    vertical-align: middle;
+    align-content: center;
+    background: linear-gradient(135deg,rgb(246, 255, 243),rgb(239, 243, 247));
+}
+#ab4{
+    vertical-align: middle;
+    align-content: center;
+    background: linear-gradient(135deg,rgba(198, 220, 231, 0.932),rgb(231, 213, 231));
+}
+#ab5{
+    vertical-align: middle;
+    align-content: center;
+    background: linear-gradient(135deg,rgba(233, 238, 218, 0.932),rgb(213, 214, 231));
+}
+#ab6{
+    vertical-align: middle;
+    align-content: center;
+    background: linear-gradient(135deg,rgb(236, 242, 239),rgba(248, 228, 228, 0.932));
+}
+#o1{
+    background-color: rgba(189, 224, 237, 0.793);
+    color: navy;
+}
+#o2{
+    background-color: rgb(236, 192, 176);
+    color: rgb(120, 27, 27);
+}
+#o3{
+    color: rgb(12, 78, 2);
+    background-color: rgb(210, 240, 193);
+}
+#o4{
+    color: rgb(76, 1, 76);
+    background-color: rgb(232, 232, 243);
+}
+#o5{
+    color: rgb(0, 97, 68);
+    background-color: rgb(230, 246, 246);
+}
+#o6{
+    color: rgba(112, 98, 37, 0.9);
+    background-color: rgb(242, 234, 208);
+}
+#o7{
+    color: rgba(141, 51, 41, 0.933);
+    background-color: rgba(245, 208, 208, 0.873);
+}
+#ab7{
+    vertical-align: middle;
+    align-content: center;
+    background: linear-gradient(135deg,rgb(239, 224, 224),rgb(238, 241, 231));
+}
+
+
+
